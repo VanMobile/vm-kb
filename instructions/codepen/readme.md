@@ -19,6 +19,18 @@ if you have any questions on how or why it works
 
 
 
+### other RN sample apps
+http://codepen.io/necolas/pen/PZzwBR
+- Tic Tac Toe
+- Calculator  
+- Sliders  
+- Periscope Hearts  
+- Flix  
+- RTL layout  
+
+
+
+
 
 
 
