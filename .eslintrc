@@ -77,20 +77,6 @@
     "react/react-in-jsx-scope": 1,
     "react/self-closing-comp": 1,
     "react/wrap-multilines": 1,
-    /*
-    To Do
-no-deprecated: Prevent usage of deprecated methods (React 0.12 Updated API)
-no-classic: Prevent usage of "classic" methods (#2700)
-Implement relevant rules from David Chang's React Style Guide
-Implement relevant rules from John Cobb's best practices and conventions
-Implement relevant rules from Alexander Early's tips and best practices
-    */
-    /*
-    @src
-    https://github.com/graphql/graphql-js/blob/master/.eslintrc
-    [2015-08-13 Thu 01:07]
-
-    */
     "array-bracket-spacing": [
       0, //set to zero because the prettify plugin isn't auto formating it [2016-05-30 Mon 04:46]
       "always"
@@ -392,74 +378,3 @@ Implement relevant rules from Alexander Early's tips and best practices
     ]
   }
 }
-/***********************************************************************************************
-
-
-task:
-[2015-08-13 Thu 01:09]
-research these settings with the settings that graphql-js' .eslintrc uses
-
-modified....
-"max-len": [2, 300, 4], // 80
-"no-console": 0, // 1
-
-
-removed....
-
-
-	"no-multiple-empty-lines": [
-	  1,
-	  {
-		"max": 20
-	  }
-	],
-
-	// Maximum of 4 empty lines.
-    // task: works but just gives a green marker in the right margin
-	"no-trailing-spaces": [
-	  2,
-	  {
-		"skipBlankLines": true
-	  }
-	],
-
-	//add the option since the jb ide adds spacing to the lines when I press enter to create new lines
-
-	"curly": [
-	  2,
-	  "multi-line"
-	],
-
-	"quotes": [
-	  2,
-	  "single",
-	  "avoid-escape"
-	],
-
-
-
-	  "eol-last": 0,
-
-
-
-********************************************************************************************************/
-/*
-deprecated rules...
-
-    // "space-after-keywords": [
-    //   2,
-    //   "always"
-    // ],
-
-
-"no-empty-label": 2,
-
-
-
-
-???
-    "react/jsx-quotes": [
-      "error",
-      "prefer-double"
-    ],
-*/
