@@ -1,5 +1,11 @@
-See the github wiki for instructions...  
-https://github.com/reactivize/reactivizer/wiki
+
+## Dev Starting Point
+[Dev Instructions](https://github.com/reactivize/reactivizer/tree/master/dev)
+
+
+## Outreach Starting Point
+[Outreach Instructions](https://github.com/reactivize/reactivizer/tree/master/outreach)
+
 
 
 
