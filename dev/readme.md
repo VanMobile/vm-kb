@@ -5,8 +5,8 @@ This will involve setting up your software development environment.
 
 Go through these pages, in this order....  
 
-- [Installs](https://github.com/reactivize/reactivizer/wiki/Installs)  
+- [Installs](https://github.com/reactivize/reactivizer/blob/master/dev/installs)  
 
-- [Free Accounts](https://github.com/reactivize/reactivizer/wiki/Free-Accounts)  
+- [Free Accounts](https://github.com/reactivize/reactivizer/blob/master/dev/freeAccounts.md)  
 
 - [Mobile App Setup](https://github.com/reactivize/reactivizer/wiki/Mobile-App-Setup)  
