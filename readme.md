@@ -17,6 +17,9 @@ dev
 outreach
 - resources specific for the outreach team
 
+all
+- instructions applicable to both devs and outreachers
+
 instructions
 - contains subfolders of various resources which contain their own readme files
 
