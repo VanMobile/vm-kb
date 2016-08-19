@@ -14,4 +14,13 @@ outreach
 instructions
 - contains subfolders of various resources which contain their own readme files
 
- 
+
+
+ ## TOC
+
+[Dev Glossary](https://github.com/reactivize/reactivizer/blob/master/dev/glossary.md)
+
+
+
+
+
