@@ -1,6 +1,6 @@
 ## Dev learning tips and resources
 
-There are three core skill you want to develop...
+There are two core skill you want to develop...
 - JavaScript
 - Ramda (which promotes a functional programming approach to programming in JavaScript)
 
@@ -16,7 +16,7 @@ Read the Ramda docs
 http://ramdajs.com/docs
 
 - There are about 210 functions, but many are very simple, are some others you'll rarely use.
-- Each function as a sample code block, so copy and paste that sample code into the Ramda Repl at
+- Each function as a sample code block, so copy and paste that sample code into the Ramda REPL tool at
 - http://ramdajs.com/repl
 - and play around with it until you understand what it's doing
 - all the functions perform a simple and single purpose
