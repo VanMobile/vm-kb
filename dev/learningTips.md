@@ -1,8 +1,11 @@
 ## Dev learning tips and resources
 
-There are three core skill you wan tto develop
+There are three core skill you want to develop...
 - JavaScript
 - Ramda (which promotes a functional programming approach to programming in JavaScript)
+
+
+And two frameworks...
 - React.js
 - React Native
 
@@ -28,8 +31,7 @@ React through the React.js documentation
 
 ## React Native
 React through the React Native documentation
-- https://facebook.github.io/react-native/
-
+- https://facebook.github.io/react-native
 
 
 
