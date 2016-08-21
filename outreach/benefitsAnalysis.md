@@ -1,4 +1,3 @@
-
 # Benefits of each role
 
 ## outreacher benefits
@@ -11,7 +10,7 @@ a high ticket product
 - that is a fairly easy sell
 - that has fairly low maintenance compare to other high ticket products
 
-very high consistent income with a small volume of deals.
+very high consistent income from a small volume of deals
 
 learn lots about the mobile application industry
 
@@ -22,6 +21,11 @@ no travel requirements
 - i.e. no living out of a suitcase
 
 plan promotional ideas with the team
+
+multi-billion dollar market
+- of near unlimited size
+- touching every industry, sector and vertical
+- either every company needs mobile capabilities, or needs upgrading in that area
 
 
 
@@ -45,15 +49,27 @@ can help others on the team as you gain experience
 
 seamlessly move from contract to contract
 
+work on the same set of technologies for every contract
+
+choose the contracts you like best
+- that are local to you or in your time zone
+- or of a product type that you are most interested, experienced in, or passionate about
+
 
 
        
 ## client benefits
 - of using the vanmobile service
 
-increase mobile engagement
+increase engagement with your customers, works and/or team members
 
-increase customer engagement
+mobile creates another important touchpoint with your customers
+
+engage customers with mobile app and mobile system level notifications
+
+allow customers/team to communicate with your company, products, and backend data
+- in real time
+- from anywhere
 
 getting for free the support team behind the developer
 
@@ -69,6 +85,4 @@ don't need to deal with and pay recruiting agencies
 
 hiring good software development talent is difficult and risky
 - so we eliminate those risks because we have on staff a group of proven producers
-
-
 
