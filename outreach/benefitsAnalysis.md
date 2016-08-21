@@ -1,3 +1,4 @@
+
 # Benefits of each role
 
 ## Outreach Specialist benefits
@@ -6,9 +7,14 @@ full support for techniques and intelligence for connecting with clients
 
 recurring revenue
 
-a high ticket product
+a high-ticket product
 - that is a fairly easy sell
-- that has fairly low maintenance compare to other high ticket products
+- that has fairly low maintenance compare to other high-ticket products
+
+You don't even have to close any sales
+- you just qualify the prospective client,
+- and get them interested in communicating with one of our senior developer staff
+- who can talk details that lead the client to move forward with setting up a contract
 
 very high consistent income from a small volume of deals
 
@@ -88,4 +94,3 @@ don't need to deal with and pay recruiting agencies
 
 hiring good software development talent is difficult and risky
 - so we eliminate those risks because we have those proven producers on our team, ready to go
-
