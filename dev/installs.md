@@ -38,7 +38,11 @@ https://www.docker.com/products/docker-toolbox
 
 ## android studio:  
 http://developer.android.com/sdk/index.html  
-  
+- includes installing Java
+
+con:  
+this is a fairly large install
+- I will provide details and screenshots of this install process soon.
 
 
 
