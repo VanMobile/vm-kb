@@ -34,26 +34,29 @@ multi-billion dollar market
 
 full support and contribution of other developers who are solving the same problems
 
-delegate roadblock to the team
+delegate technical roadblocks to the team
 
 don't need to do job interviews for each contract
 
 don't have to fuss with drawing out the contract details
 
-don't have to experience being micro-managed by a program manager
+don't have to deal with being micro-managed by a program manager or middle management anymore
 
 can work fully remotely
 - and set your own hours
 
-can help others on the team as you gain experience
+can help others on the team as you gain experience with common problems
 
 seamlessly move from contract to contract
 
 work on the same set of technologies for every contract
 
+work on more greenfield projects
+- and less legacy code
+
 choose the contracts you like best
 - that are local to you or in your time zone
-- or of a product type that you are most interested, experienced in, or passionate about
+- or of a product type that you are most interested in, experienced in, or passionate about
 
 
 
@@ -61,17 +64,17 @@ choose the contracts you like best
 ## Client company benefits
 - of using the vanmobile service
 
-increase engagement with your customers, works and/or team members
+increase engagement with your customers, workers and/or team members
 
-mobile creates another important touchpoint with your customers
+mobile capabilities create another important touchpoint with your customers
 
-engage customers with mobile app and mobile system level notifications
+engage customers with mobile notifications of important and timely information
 
 allow customers/team to communicate with your company, products, and backend data
 - in real time
 - from anywhere
 
-getting for free the support team behind the developer
+get a full-time dedicated experience developer and, for free, the support team behind the developer
 
 can have working software
 - with a slew of features
@@ -84,5 +87,5 @@ don't need to involve HR in hiring
 don't need to deal with and pay recruiting agencies
 
 hiring good software development talent is difficult and risky
-- so we eliminate those risks because we have on staff a group of proven producers
+- so we eliminate those risks because we have those proven producers on our team, ready to go
 
