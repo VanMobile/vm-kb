@@ -14,6 +14,8 @@ We could start doing requirements analysis within a few days
 
 #### What are the risks?
 
-A profession risk assessment assessment is done upfront.
-- Most of the features you require we have build many times before, so there are no technical challenges there.
-- New innovations we give your our best estimates but also keep you in the loop with weekly updates, including re-adjustments to estimates if it becomes necessary
+A profession risk assessment is done upfront; before the project starts
+- Most of the features you require are features we have built many times before, so there are no technical challenges, risks, or unknowns in that area.
+- New innovations will involve us giving you our best estimate based on the information gathered
+- but we also keep you in the loop as the project progresses with weekly updates,
+- including re-adjustments to estimates if it becomes necessary
