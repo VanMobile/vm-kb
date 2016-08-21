@@ -1,6 +1,6 @@
 # Benefits of each role
 
-## outreacher benefits
+## Outreach Specialist benefits
 
 full support for techniques and intelligence for connecting with clients
 
@@ -29,7 +29,7 @@ multi-billion dollar market
 
 
 
-## dev benefits
+## Software Developer benefits
 - of using the vanmobile service
 
 full support and contribution of other developers who are solving the same problems
@@ -58,7 +58,7 @@ choose the contracts you like best
 
 
        
-## client benefits
+## Client company benefits
 - of using the vanmobile service
 
 increase engagement with your customers, works and/or team members
