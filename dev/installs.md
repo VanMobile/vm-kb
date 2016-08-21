@@ -26,7 +26,9 @@ there is a desktop app, a mobile app, or the ability to just use the web browser
 ## VSC:  
 Visual Studio Code  
 https://code.visualstudio.com  
-  
+- this particular IDE is just a recommendation;
+- It's at least worth checking out;
+- It's my main driver.  
 
 
 ## docker:  
