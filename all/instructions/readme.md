@@ -1,6 +1,6 @@
 ## Slack
 
-### slack install
+### slack - install
 
 Get the slack desktop app here.  
 https://slack.com/downloads  
@@ -12,7 +12,7 @@ You also have the option to log into a slack channel via the web browser also.
 
 
 
-### slack join channel
+### slack - join channel
 
 To join a channel on slack, ask me for an invite to the main channel
 - just send me your email address, and the Slack invite will be emailed to you. 
