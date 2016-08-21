@@ -1,6 +1,12 @@
 
-Read the All instructions first...  
+
+## Read the All instructions first...  
 [setup for devs and outreachers](https://github.com/reactivize/reactivizer/tree/master/all/instructions)
 
 
-More instructions for Outreachers coming soon.
+## Outreach Resources
+
+[Benefits Analysis of Roles](./benefitsAnalysis.md)
+
+
+[Sales Script Ideas](./salesscripts.md)
