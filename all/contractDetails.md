@@ -8,7 +8,7 @@ semi-monthly invoicing
 
 payment due within 5 days of invoice date
 - sometimes this could be negotiated with the Client up to 10 days depending on the Client's specific payroll constraints
-- but we try for 5.
+- but we try for 5 days.
 
 
 
