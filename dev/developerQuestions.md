@@ -1,10 +1,22 @@
+#### What do I need to supply as a developer to participate in contracts?
+
+You will need....
+- a laptop computer (Windows or Mac)
+- an internet connection
+- a smartphone, Android and/or iPhone
+- at least 20 hours a week of part-time availability, or 40 hour for full-time (this includes the flexibility of putting in hours on the weekend, you choose your schedule)
+- lots of passion. :) 
+
+
+
 #### What technology stack will developers be expected to know?
 
 One of our goals is to keep consistency of the technologies used across contracts.
 
 Benefits include...
-- helps reduce cognitive overload
+- helps reduce cognitive load and ramp-up time
 - makes it easier to train new developers
+- makes it easier for developers to communicate and share code with each other
 - makes it much more seamless for a developer to move from one contract to another
 
 A partial list of our recommended tech stack currently is....
@@ -12,8 +24,8 @@ A partial list of our recommended tech stack currently is....
 - React Native
 - Ramda.js (a functional utility library)
 - Node.js
-- Docker
 - RethinkDB, or MongoDB or MySQL
+- Docker
 
 You can see that it's very JavaScript centric.
 
