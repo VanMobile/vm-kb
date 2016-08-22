@@ -32,9 +32,9 @@ https://code.visualstudio.com
 - It's my main driver.  
 
 
-## docker:  
+## docker toolbox:  
 https://www.docker.com/products/docker-toolbox  
-  
+- includes Oracle VM Virtualbox
 
 
 ## android studio:  
