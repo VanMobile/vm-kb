@@ -4,8 +4,10 @@ You will need....
 - a laptop computer (Windows or Mac)
 - an internet connection
 - a smartphone, Android and/or iPhone
-- at least 20 hours a week of part-time availability, or 40 hour for full-time (this includes the flexibility of putting in hours on the weekend, you choose your schedule)
-- lots of passion. :) 
+- at least 20 hours a week of part-time availability, or 40 hour for full-time (this includes the flexibility of putting in your hours on the weekend, you choose your schedule)
+- ability to keep in communication with the client and maintain a good relationship.
+- the willingness and fortitude to keep learning with us as technologies change
+- lots of passion :) 
 
 
 
@@ -28,6 +30,9 @@ A partial list of our recommended tech stack currently is....
 - Docker
 
 You can see that it's very JavaScript centric.
+
+There will be full training on these technologies in the knowledge-base and in the Slack channel.  
+This is one of our unique selling propositions to developers, to reduce the time you have to invest running around trying to keep up with this fast-changing industry we call software development. 
 
 
 
