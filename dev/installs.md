@@ -7,13 +7,14 @@ when installing, accept all the defaults installation options
 
 ## node.js:  
 http://nodejs.org
-- includes npm
-  
+- choose version 6.4 or greater
+- already includes npm (Node Package Manager)
+- install with all the default options  
 
 
 ## git:  
 https://git-scm.com/downloads  
-  
+- install with all the default options
 
 
 ##  slack:  
