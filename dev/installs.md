@@ -38,7 +38,8 @@ https://www.docker.com/products/docker-toolbox
 
 
 ## android studio:  
-http://developer.android.com/sdk/index.html  
+http://developer.android.com/sdk/index.html
+- required for developing Android mobile apps, even with React Native
 - includes installing Java
 
 con:  
