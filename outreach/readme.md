@@ -9,4 +9,4 @@
 [Benefits Analysis of Roles](./benefitsAnalysis.md)
 
 
-[Sales Script Ideas](./salesscripts.md)
+[Sales Script Ideas](./salesScripts.md)
