@@ -52,3 +52,44 @@ We support both; And the client is abstracted away from caring about these detai
 The constraint with Windows is not having the ability to hot-reload test an iOS mobile app on their local Windows box.
 
 However, this is not a blocker because we have options for getting this done. This is one of the great things about working with React Native.
+
+
+
+
+
+
+#### If I use the resources here am I bound to run contracts through VanMobile?
+
+Not at all.
+
+Feel free to source out your own contracts.
+
+Our goal here is to create an environment and resource where it's worth it for the developer and the client to use the services of VanMobile.
+
+We try to open source as much as possible to help you do your job better.
+
+But steer your career in the direction that you feel works best for you.
+
+We'll always be here to help.
+
+
+
+#### Do I have to contribute, or have any other obligation?
+
+Not at all. No obligations; you're not bound in any way.
+
+If you have coding or business intelligence to contribute, that's great. 
+
+If you have any question; we'll do our best to answer them.
+
+
+
+#### I know other developers who are interested in mobile app programming with React Native, can they join and access the resources also?
+
+Sure thing.
+
+Just get their email address to me, and I will send them a Slack invite.
+
+
+
+
