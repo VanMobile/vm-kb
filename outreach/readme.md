@@ -1,7 +1,7 @@
 
 
 ## Read the All instructions first...  
-[setup for devs and outreachers](https://github.com/reactivize/reactivizer/tree/master/all/instructions)
+[setup for devs and outreachers](../all/instructions)
 
 
 ## Outreach Resources
