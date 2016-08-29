@@ -1,10 +1,10 @@
 
 ## Dev Starting Point
-[Dev Instructions](./tree/master/dev)
+[Dev Instructions](dev)
 
 
 ## Outreach Starting Point
-[Outreach Instructions](./tree/master/outreach)
+[Outreach Instructions](outreach)
 
 
 
@@ -27,7 +27,7 @@ instructions
 
  ## TOC
 
-[Dev Glossary](./blob/master/dev/glossary.md)
+[Dev Glossary](dev/glossary.md)
 
 
 
