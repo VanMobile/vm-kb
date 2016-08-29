@@ -15,4 +15,4 @@
 
 [Copywriting Ideas](copywriting.md)
 
-[Client Questions](clientQuestionsmd)
+[Client Questions](clientQuestions.md)
