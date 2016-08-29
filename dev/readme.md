@@ -8,14 +8,14 @@ Go through these pages, in this order....
 
 ## Get Development Environment Setup
 
-- [Installs](https://github.com/reactivize/reactivizer/blob/master/dev/installs.md)  
+- [Installs](installs.md)  
 
-- [Free Accounts](https://github.com/reactivize/reactivizer/blob/master/dev/freeAccounts.md)  
+- [Free Accounts](freeAccounts.md)  
 
 
 ## Get a React Native Project Running
 
-- [Mobile App Setup](https://github.com/reactivize/reactivizer/blob/master/dev/mobileAppSetup.md)  
+- [Mobile App Setup](mobileAppSetup.md)  
 
 
 
