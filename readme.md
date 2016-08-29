@@ -1,10 +1,10 @@
 
 ## Dev Starting Point
-[Dev Instructions](https://github.com/reactivize/reactivizer/tree/master/dev)
+[Dev Instructions](./tree/master/dev)
 
 
 ## Outreach Starting Point
-[Outreach Instructions](https://github.com/reactivize/reactivizer/tree/master/outreach)
+[Outreach Instructions](./tree/master/outreach)
 
 
 
@@ -27,7 +27,7 @@ instructions
 
  ## TOC
 
-[Dev Glossary](https://github.com/reactivize/reactivizer/blob/master/dev/glossary.md)
+[Dev Glossary](./blob/master/dev/glossary.md)
 
 
 
