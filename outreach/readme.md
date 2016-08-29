@@ -10,3 +10,9 @@
 
 
 [Sales Script Ideas](./salesScripts.md)
+
+[Product Details](productDetails.md)
+
+[Copywriting Ideas](copywriting.md)
+
+[Client Questions](clientQuestionsmd)
